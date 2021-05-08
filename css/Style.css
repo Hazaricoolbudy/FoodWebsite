@@ -11,6 +11,7 @@
     border-radius: 100px;
     padding: 14px;
     margin-left: 19px;
+    
 }
 .navbar  ul{
     display: flex;
@@ -34,6 +35,7 @@
     border-radius: 20px;
        
 }
+
 .navbar ul li a:hover
 {
     color: black;
